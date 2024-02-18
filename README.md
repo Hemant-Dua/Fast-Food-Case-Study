@@ -18,4 +18,4 @@ perception, and strengthen the positive perception. Or we can choose to focus on
 market segment that currently perceives McDonald’s in a negative way. In this case,
 we want to understand the key drivers of the negative perception, and modify them.
 
-The Code was written originally in R but is written in Python via Jupyter notebook
+The Code was written originally in R but is written in Python via Jupyter notebook.
